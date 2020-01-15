@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+# Let's Build an Alexa Skill
 
-You can use the [editor on GitHub](https://github.com/myramade/hbcu_alexa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You will be building the your skill front-end using the Alexa Developer Console and its backend using Lambda in the AWS Console. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For this activity, you will need:
+1. your Amazon.com account login - the one you use to shop on Amazon.com
+2. an AWS Educate account or access to your personal aws.amazon.com account
+
+##
+
+
 
 ### Markdown
 
@@ -28,10 +34,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/myramade/hbcu_alexa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
