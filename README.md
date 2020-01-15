@@ -1,10 +1,10 @@
 # Let's Build an Alexa Skill
 
-You will be building the your skill front-end using the Alexa Developer Console and its backend using Lambda in the AWS Console. 
+You will be building the your skill front-end using the Alexa Developer Console and its backend using Lambda in the AWS Management Console. 
 
 For this activity, you will need:
 1. your Amazon.com account login - the one you use to shop on Amazon.com
-2. an AWS Educate account or access to your personal aws.amazon.com account
+2. an AWS Educate account (if you are a student) or a personal aws.amazon.com account
 
 ##
 
