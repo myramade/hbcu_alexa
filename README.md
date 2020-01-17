@@ -17,7 +17,7 @@ Let's begin with an Alexa Skill theory crash course. Since we will get to buildi
 - Front-end - Interaction Model
 - Backend - Hosted Service
 
-### Terminology
+### Terminology :rocket:
 Let's start with some basic terms that you should understand. I've complied a list below (full glossary [here](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/alexa-skills-kit-glossary.html)):
 
 Terminology | Definition
@@ -37,28 +37,5 @@ Voice User Interface (VUI)	| A method for users to use voice to interact with an
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
