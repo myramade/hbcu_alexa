@@ -8,7 +8,7 @@ For this activity, you will need:
 1. your Amazon.com account login - the one you use to shop on Amazon.com
 2. an AWS Educate account (if you are a student) or a personal aws.amazon.com account
 
-## Before You Start
+## :vertical_traffic_light: Before You Start :vertical_traffic_light:
 Let's begin with an Alexa Skill theory crash course. Since we will get to building fairly quickly, there are a few things you should have high-level knowledge of:
 
 - Basic Alexa Terminology
