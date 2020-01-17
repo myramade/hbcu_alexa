@@ -27,6 +27,7 @@ Automatic Speech Recognition (ASR) |	A technology that converts spoken words int
 Intent	| An action that fulfills the users spoken request
 Interaction Model |	The words user may say to make intents
 Invocation |	The name of your Alexa skill
+Lambda | a cloud service used to host and run code in response to a trigger without servers to manage
 Natural Language Understanding (NLU) |	Technology used by computers to understand what a user’s words mean.
 Slot |	An option argument in an intent.
 Speech Synthesis Markup Language (SSML)	| A markup language to generate synthetic speech
@@ -38,6 +39,10 @@ Voice User Interface (VUI)	| A method for users to use voice to interact with an
 
 ![Parts of an Alexa Skill](https://user-images.githubusercontent.com/28787937/72653217-bbd0cb80-393e-11ea-956b-3ce0d55b9061.png)
 
+An Alexa skill has a frontend and a backend, just like a web application has a user-facing frontend and an operations backend.  In the case of an Alexa skill, since users interact with a Skill using their voice, the frontend is an Interaction Model called Voice User Interface. The backend for the skill we will build in this lab is a Lambda function, which is a serverless service that runs your code everytime it is triggered by an event. 
+
+### Parts of a Voice Command
+![Parts of a Voice Command]()
 
 
 
