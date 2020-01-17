@@ -8,8 +8,8 @@ For this activity, you will need:
 1. your Amazon.com account login - the one you use to shop on Amazon.com
 2. an AWS Educate account (if you are a student) or a personal aws.amazon.com account
 
-## :vertical_traffic_light: Before You Start :vertical_traffic_light:
-Let's begin with an Alexa Skill theory crash course. Since we will get to building fairly quickly, there are a few things you should have high-level knowledge of:
+## :vertical_traffic_light: Things Your Should Know :vertical_traffic_light:
+Let's begin with an Alexa Skill theory crash course. Since we will get to building fairly quickly, there are a few things you should know:
 
 - Basic Alexa Terminology
 - Parts of an Alexa Skill
@@ -34,6 +34,7 @@ Utterance	| The words a user says to Alexa to tell it what they want to respond 
 Voice User Interface (VUI)	| A method for users to use voice to interact with and control an Alexa device
 
 
+### Parts of an Alexa Skill
 
 
 
