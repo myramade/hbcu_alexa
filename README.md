@@ -36,7 +36,7 @@ Voice User Interface (VUI)	| A method for users to use voice to interact with an
 
 ### Parts of an Alexa Skill
 
-![Parts of an Alexa Skill] (https://user-images.githubusercontent.com/28787937/72653217-bbd0cb80-393e-11ea-956b-3ce0d55b9061.png)
+![Parts of an Alexa Skill](https://user-images.githubusercontent.com/28787937/72653217-bbd0cb80-393e-11ea-956b-3ce0d55b9061.png)
 
 
 
