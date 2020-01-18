@@ -52,7 +52,7 @@ Every Alexa skill has be be enabled and the user needs to interact with the skil
 
 
 ## :mag_right: Frontend - Interaction Model 
-![frontend](https://user-images.githubusercontent.com/28787937/72653624-a492dd80-3940-11ea-862f-c6ed02cac3cd.png)
+![intent](https://user-images.githubusercontent.com/28787937/72655149-ef642380-3947-11ea-8494-63a3de790a83.png)
 
 Every application needs a frontend a way for your people to interact with your application. The Interaction Model defines the logic for the skill. The Voice User Interface (VUI) to map the user's _verbal input_ to the _intents_ your skill can handle. Utterances are the phrases a user may say – they help the skill connect the intents to words or phases spoken by the user. 
 
