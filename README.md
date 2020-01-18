@@ -60,7 +60,9 @@ Let’s say you build a skill that does one thing, it responds only to the voice
 
 ![backend](https://user-images.githubusercontent.com/28787937/72653645-baa09e00-3940-11ea-8e6d-8d10320c84a6.png)
 
-Most applications today require some kind of backend that stores and arranges data. For skill you have to choose where your code will live, you have three options at this time: Provision Your Own (i.e. Lambda), Alexa-Hosted (Node.js), and Alexa-Hosted (Python)
+Most applications today require some kind of backend that stores and arranges data. For skill you have to choose where your code will live, you have three options at this time: Provision Your Own (i.e. Lambda), Alexa-Hosted (Node.js), and Alexa-Hosted (Python). 
+*IMPORTANT* 
+_If you choose one of the two Alexa-Hosted options, be aware of the free-tier limitations.  If your skills goes viral, you'll want to consider moving it to your own Provisioned service like a Lambad function._
 
 
 
