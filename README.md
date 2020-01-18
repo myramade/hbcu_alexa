@@ -70,7 +70,7 @@ _Alexa-Hosted options give you access to an AWS Lambda endpoint with data transf
 
 
 
-[![button_get-started](https://user-images.githubusercontent.com/28787937/72658663-d324ae80-3968-11ea-8b1c-2d66a0f4f38b.png)]
+[![button_get-started](https://user-images.githubusercontent.com/28787937/72658663-d324ae80-3968-11ea-8b1c-2d66a0f4f38b.png)](https://github.com/myramade/hbcu_alexa/blob/master/build.md)
 
 
 
