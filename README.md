@@ -64,8 +64,9 @@ Let’s say you build a skill that does one thing, it responds only to the voice
 
 Most applications today require some kind of backend that stores and arranges data. For skill you have to choose where your code will live, you have three options at this time: Provision Your Own (i.e. Lambda), Alexa-Hosted (Node.js), and Alexa-Hosted (Python). Think of the hosted service backend as your car engine, when you put the key in the ignition and turn your car on, your motor goes into action. When you stop the car and take the keys out of the ignition, your car is completely off - it doesn't idle.  
 
-*IMPORTANT* 
+**IMPORTANT** 
 _Alexa-Hosted options give you access to an AWS Lambda endpoint with data transfer lmintations. If your skills goes viral, you'll want to consider moving it to your own Provisioned service like a custom Lambda function._
+
 
 
 
