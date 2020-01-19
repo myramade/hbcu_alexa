@@ -1,6 +1,8 @@
 # Let's Build an Alexa Skill
 
-You will be building the your skill front-end using the Alexa Developer Console and its backend using Lambda in the AWS Management Console. 
+Have you ever wanted to build your own Alexa skill but need a starting point? I got you covered. In this lab you'll create your first Alexa skill in about 10 minuts. I reference Amazon AWS documentation and simplify some terms in order to help you wrap your brain around the basics. 
+
+In this lab you are going to build an Alexa skill using different tools - from the the Alexa Developer Console, AWS Lambda, and Amazon Blueprints. 
 
 ### Tools
 
@@ -9,7 +11,7 @@ For this activity, you will need:
 2. an AWS Educate account (if you are a student) or a personal aws.amazon.com account
 
 ## :vertical_traffic_light: Things Your Should Know :vertical_traffic_light:
-Let's begin with an Alexa Skill theory crash course. Since we will get to building fairly quickly, there are a few things you should know:
+Before you start building, lete me give you an Alexa Skill theory crash course. Since we will get to building fairly quickly, there are a few things you should know:
 
 - Basic Alexa Terminology
 - Parts of an Alexa Skill
