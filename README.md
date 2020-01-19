@@ -11,7 +11,7 @@ For this lab, you will need:
 2. an AWS Educate account (if you are a student) or a personal aws.amazon.com account
 
 ## :vertical_traffic_light: Things Your Should Know :vertical_traffic_light:
-Before you start building, lete me give you an Alexa Skill theory crash course. Since we will get to building fairly quickly, there are a few things you should know:
+Before you start building, let me give you an Alexa Skill theory crash course. Since we will get to building fairly quickly, there are a few things you should know:
 
 - Basic Alexa Terminology
 - Parts of an Alexa Skill
