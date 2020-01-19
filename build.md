@@ -1,4 +1,4 @@
-*NOTE: I've added all instructions for this lab on one page because who wants to constantly click Next or Continue*
+> *NOTE: I've added all instructions for this lab on one page because who wants to constantly click Next or Continue*
 
 # Let's Build Using the Alexa Developer Console
 Now that you have the some basics down, let's start building. The first step is to access the Amazon Developer Console.  Don't confuse the Developer Console with the AWS Management Console; these are two separate platforms. The Developer console gives you access to resources you need to build an Alexa skill, an Andorid app/game, dash buttons, and more.   
