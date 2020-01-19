@@ -1,4 +1,4 @@
-# Let's Build
+# Let's Build Using the Alexa Developer Console
 Now that you have the some basics down. Let's start building. 
 
 ## Logon to the Alexa Developer Console
