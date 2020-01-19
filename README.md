@@ -44,21 +44,21 @@ Voice User Interface (VUI)	| a method for users to use voice to interact with an
 
 ![Parts of an Alexa Skill](https://user-images.githubusercontent.com/28787937/72653217-bbd0cb80-393e-11ea-956b-3ce0d55b9061.png)
 
-An Alexa skill has a frontend and a backend, just like a web application has a user-facing frontend and an operations backend.  In the case of an Alexa skill, since users interact with a Skill using their voice, the frontend is an Interaction Model called Voice User Interface. The backend for the skill we will build in this lab is a Lambda function, which is a serverless service that runs your code everytime it is triggered by an event. 
+An Alexa skill has a frontend and a backend, just like a web application has a user-facing frontend and an operations backend.  In the case of an Alexa skill, since users interact with a Skill using their voice, the frontend is an Interaction Model called Voice User Interface. The backend for the skill you will build in this lab is a Lambda function, which is an AWS service that runs your code everytime it is triggered by an event. 
 
 
 ## :mag_right: Parts of a Voice Command 
 ![Parts of a Voice Command](https://user-images.githubusercontent.com/28787937/72653601-8a58ff80-3940-11ea-835b-55dbd467711e.png)
 
-Every Alexa skill has be be enabled and the user needs to interact with the skill using their voice. The graphic above breakdowns a voice command; this is the data that interaction model accepts to provide data back to the user. 
+Every Alexa skill has be be enabled in order for users to interact with the skill using their voice. The graphic above breakdowns a voice command; this is the data that interaction model accepts to provide data back to the user. 
 
 
 ## :mag_right: Frontend - Interaction Model 
 ![intent](https://user-images.githubusercontent.com/28787937/72655149-ef642380-3947-11ea-8494-63a3de790a83.png)
 
-Every application needs a frontend a way for your people to interact with your application. The Interaction Model defines the logic for the skill. The Voice User Interface (VUI) to map the user's _verbal input_ to the _intents_ your skill can handle. Utterances are the phrases a user may say – they help the skill connect the intents to words or phases spoken by the user. 
+Every application needs a frontend a way for your people to interact with your application. The Interaction Model defines the logic for the skill. The Voice User Interface (VUI) maps the user's _verbal input_ to the _intents_ your skill can handle. Utterances are the phrases a user may say – they help the skill connect the intents to words or phases spoken by the user. 
 
-Let’s say you build a skill that does one thing, it responds only to the voice command in the image above. The skill will need an _intent_, we could name it _“DetergentIntent”_. The intent defines the behavior of a skill. The intent takes the user's _verbal command_ and triggers code in your backend. 
+For example, let’s say you build a skill that does one thing, it responds only to the voice command in the image above. The skill will need an _intent_, we could name it _“DetergentIntent”_. The intent defines the behavior of a skill. The intent takes the user's _verbal command_ and triggers code in your backend. 
 
 
 ## :mag_right: Backend - Hosted Service 
