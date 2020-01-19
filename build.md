@@ -20,10 +20,13 @@ On the **Create a new skill** page, there's a few decisions points:
 * **Skill name** - this is the one to two-word name you're give your skill. It's the name users will see when you publish your skill.
 * **Default Language** - you can decide which language you will use for your skill. I recommend English for now, you can add more langugages later. 
 * **Choose a mdoel to add to your skill** - The peeps at AWS have created some pre-built model to simplify things; these are great for learning. For this lab, choose **Custom**.  A blue *SELECTED* banner will appear on the model you select. 
-* **Choose a method to host yoru skill's backend resources** - on my intro page, I shared that your skill needs a backend.  The most common backend is a Lambda function. You are given a choice of three options, of which two are Alexa-Hosted. 
+* **Choose a method to host your skill's backend resources** - on my intro page, I shared that your skill needs a backend.  The most common backend is a Lambda function. You are given a choice of three options, of which two are Alexa-Hosted. 
   * Select **Alexa-Hosted (Node.js)**
   
-Now click the **Create Skill** button at the top of the screen.
+Once you make all your selections, click the **Create Skill** button at the top of the screen. 
+
+This will take you the **Choose a template** page. Again, the AWS peeps has created some base templates you can use to create your skill, which is awesome. For this lab we are going to define a custom model - I recommend playing around with these other templates once you've gone through this lab. 
+ * Select **Start from scratch**
 
 
 
