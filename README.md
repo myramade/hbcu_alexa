@@ -24,20 +24,20 @@ Let's start with some basic terms that you should understand. I've complied a li
 
 Terminology | Definition
 ------------|-------------
-Amazon Resource Name (ARN) | Unique AWS resource identifier 
-Automatic Speech Recognition (ASR) |	A technology that converts spoken words into text.
+Amazon Resource Name (ARN) | unique AWS resource identifier 
+Automatic Speech Recognition (ASR) |	a technology that converts spoken words into text.
 Backend | is the infrastucture that stores and arranges your data
-Frontend | Presentation layer of an application. It's what your users interact with directly. 
-Hosted Service | A service that is managed for you so you don't have to worry about updates, patches, scaling, etc
-Intent	| An action that fulfills the users spoken request
-Interaction Model |	The words user may say to make intents
+Frontend | the presentation layer of an application. It's what your users interact with directly. 
+Hosted Service | a service that is managed for you so you don't have to worry about updates, patches, scaling, etc
+Intent	| an action that fulfills the users spoken request
+Interaction Model |	the words user may say to make intents
 Invocation |	The name of your Alexa skill
 Lambda | a cloud service used to host and run code in response to a trigger without servers to manage
-Natural Language Understanding (NLU) |	Technology used by computers to understand what a user’s words mean.
-Slot |	An option argument in an intent.
-Speech Synthesis Markup Language (SSML)	| A markup language to generate synthetic speech
-Utterance	| The words a user says to Alexa to tell it what they want to respond to a question
-Voice User Interface (VUI)	| A method for users to use voice to interact with and control an Alexa device
+Natural Language Understanding (NLU) |	technology used by computers to understand what a user’s words mean.
+Slot |	an option argument in an intent.
+Speech Synthesis Markup Language (SSML)	| a markup language to generate synthetic speech
+Utterance	| the words a user says to Alexa to tell it what they want to respond to a question
+Voice User Interface (VUI)	| a method for users to use voice to interact with and control an Alexa device
 
 
 ## :mag_right: Parts of an Alexa Skill 
