@@ -33,8 +33,24 @@ This will take you the **Choose a template to add to your skill** page. Again, t
  
 >![iconfinder_Wait_132116](https://user-images.githubusercontent.com/28787937/72690247-4b0ce900-3acf-11ea-9c15-48692565d459.png) You'll see a modal pop-up on your screen as your skill builder is configured with your selections. Your Skill Builder screen will take a few minutes to load. This is a great time to take a few deep breaths!
 
-Has your screen loaded? It should look something like this (*I'm anti-screenshots when it comes to software because builds change constantly but felt you needed one here - be aware your screen may look a little or a lot different depending on when you are reading this*):
+# Skill Builder Page(s)
+
+**Has your screen loaded?** 
+It should look something like this (*I'm anti-screenshots when it comes to software because builds change constantly but felt you needed one here - be aware your screen may look a little or a lot different depending on when you are reading this*):
 ![alexa-developer](https://user-images.githubusercontent.com/28787937/72690352-80660680-3ad0-11ea-8214-8da381d36f6c.png)
+
+**There is a lot of on this page, so take a minute to breath again - you got this**
+
+This is the Skill Builder page. On the left-side of the screen, you'll see:
+* Interaction Model
+* Utterance Conflict
+* Invocation
+* Intents
+* Slot Types
+* JSON Editor
+* and more...
+
+On the right-side of the screen, you'll see a **Skill builder checklist**.  Most of the items will have a green checkmark because we selected a pre-built template. *Yay us!*
 
 
 
