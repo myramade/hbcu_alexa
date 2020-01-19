@@ -31,7 +31,7 @@ This will take you the **Choose a template to add to your skill** page. Again, t
  *  Select **Hello World Skill** template 
  *  Then click the **Choose** button at the top of the screen
  
->![iconfinder_Wait_132116](https://user-images.githubusercontent.com/28787937/72690247-4b0ce900-3acf-11ea-9c15-48692565d459.png) You'll see a modal pop-up on your screen as your skill builder is configured with your selections. Your Skill Builder screen will take a few minutes to load.
+>![iconfinder_Wait_132116](https://user-images.githubusercontent.com/28787937/72690247-4b0ce900-3acf-11ea-9c15-48692565d459.png) You'll see a modal pop-up on your screen as your skill builder is configured with your selections. Your Skill Builder screen will take a few minutes to load. This is a great time to take a few deep breaths!
 
 
 
