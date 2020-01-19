@@ -1,3 +1,5 @@
+*NOTE: I've added all instructions for this lab on one page because who wants to constantly click Next or Continue*
+
 # Let's Build Using the Alexa Developer Console
 Now that you have the some basics down, let's start building. The first step is to access the Amazon Developer Console.  Don't confuse the Developer Console with the AWS Management Console; these are two separate platforms. The Developer console gives you access to resources you need to build an Alexa skill, an Andorid app/game, dash buttons, and more.   
 
@@ -25,9 +27,11 @@ On the **Create a new skill** page, there's a few decisions points:
   
 Once you make all your selections, click the **Create Skill** button at the top of the screen. 
 
-This will take you the **Choose a template** page. Again, the AWS peeps has created some base templates you can use to create your skill, which is awesome. For this lab we are going to define a custom model - I recommend playing around with these other templates once you've gone through this lab. 
- * Select **Start from scratch**
-
+This will take you the **Choose a template to add to your skill** page. Again, the AWS peeps has created some base templates you can use to create your skill, which is awesome. For this lab we are going to use the **Hello World skill**
+ *  Select **Hello World Skill** template 
+ *  Then click the **Choose** button at the top of the screen
+ 
+ You'll see a modal pop-up on your screen as your skill builder is configured with your selections. Your Skill Builder screen will take a few minutes to load.
 
 
 
