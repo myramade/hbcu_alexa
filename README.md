@@ -1,8 +1,8 @@
 # Let's Build an Alexa Skill
 
-Have you ever wanted to build your own Alexa Skill, but need a starting point? I got you covered. In this lab, you'll create your first Alexa Skill in about 10 minutes. I will reference Amazon AWS documentation and simplify some terms in order to help you wrap your brain around the basics. 
+Have you ever wanted to build your own Alexa Skill, but need a starting point? I got you covered. In this lab, you'll create your first Alexa Skill in about 10 minutes. You're going to build using different tools including the Alexa Developer Console, AWS Lambda, and Amazon Blueprints. 
 
-You're going to build an Alexa Skill using different tools, including the Alexa Developer Console, AWS Lambda, and Amazon Blueprints.
+I will reference Amazon AWS documentation and simplify some terms in order to help you wrap your brain around the basics. 
 
 ### Tools
 
