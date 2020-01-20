@@ -20,7 +20,7 @@ Now that you are logged on to the Alexa Developer console, let's create a new Sk
 
 On the **Create a new Skill** page, there's a few decisions points: 
 * **Skill name** - This is the one or two word name that users will see when you publish your Skill. 
- * Type **Hello World**
+ * Type **Hello World**.
 * **Default Language** - You can decide which language you will use for your skill. I recommend English for now, you can add more langugages later. 
 * **Choose a mdoel to add to your skill** - The peeps at AWS have created some pre-built models to simplify things; these are great for learning. For this lab, choose **Custom**.  A blue *SELECTED* banner will appear on the model you select. 
 * **Choose a method to host your skill's backend resources** - On my intro page, I shared that your Skill needs a backend.  The most common backend is a Lambda function. You are given a choice of three options, two of which are Alexa-Hosted. 
