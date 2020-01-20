@@ -10,7 +10,7 @@ To log-on to the Alexa Developer Console, go to http://developer.amazon.com/
 
 Once logged in, you'll see a few options on your screen:
 - Select **Alexa** under **Amazon Alexa**. 
-- At the top of the Amazon Alexa screen select **Skill Builders** and from the drop-down menu select **Developer Console**
+- At the top of the Amazon Alexa screen select **Skill Builders** and from the drop-down menu select **Developer Console**.
 
 # Create Your Skill
 
@@ -18,13 +18,13 @@ Now that you are logged on to the Alexa Developer console, let's create a new Sk
 
 - Click the **Create Skill** button. This will bring up the **Create a new Skill** page. 
 
-On the **Create a new Skill** page, there's a few decisions points: 
+On the **Create a new Skill** page, there are a few decisions points: 
 * **Skill name** - This is the one or two word name that users will see when you publish your Skill. 
  * Type **Hello World**.
-* **Default Language** - You can decide which language you will use for your skill. I recommend English for now, you can add more langugages later. 
-* **Choose a mdoel to add to your skill** - The peeps at AWS have created some pre-built models to simplify things; these are great for learning. For this lab, choose **Custom**.  A blue *SELECTED* banner will appear on the model you select. 
+* **Default Language** - You can decide which language you will use for your skill. I recommend English for now, but you can add more languages later. 
+* **Choose a model to add to your skill** - The peeps at AWS have created some pre-built models to simplify things; these are great for learning. For this lab, choose **Custom**.  A blue *SELECTED* banner will appear on the model you select. 
 * **Choose a method to host your skill's backend resources** - On my intro page, I shared that your Skill needs a backend.  The most common backend is a Lambda function. You are given a choice of three options, two of which are Alexa-Hosted. 
-  * Select **Alexa-Hosted (Node.js)**
+  * Select **Alexa-Hosted (Node.js)**.
   
 Once you make all your selections, click the **Create Skill** button at the top of the screen. 
 
@@ -37,10 +37,10 @@ This will take you to the **Choose a template to add to your Skill** page. Again
 # Skill Builder Page(s)
 
 **Has your screen loaded?** 
-It should look something like this (*I'm anti-screenshots when it comes to software because builds change constantly, but I felt we needed one here - be aware that your screen may look a little or a lot different depending on when you are reading this!*):
+It should look something like this (*I'm anti-screenshots when it comes to software because builds change constantly, but I felt we needed one here – be aware that your screen may look a little or a lot different depending on when you are reading this!*):
 ![alexa-developer](https://user-images.githubusercontent.com/28787937/72690352-80660680-3ad0-11ea-8214-8da381d36f6c.png)
 
-**There is a lot of on this page, so take a minute to breath again - you got this!**
+**There is a lot of on this page, so take a minute to breathe again - you got this!**
 
 This is the Skill Builder page. On the *left-side* of the screen, you'll see **Custom** and below that you'll see:
 * Interaction Model
@@ -66,7 +66,7 @@ The first item on the checklist is **Invocation Name**. This is where you set th
   
 ## Intents
 Let's move on to the **Intents**. This is how the VUI maps the user's verbal input to the intents your skill can handle.
-* On the left-side bar you'll notice **Intents (#)**, select the **HelloWorldIntent** under it. 
+* On the left-side bar you'll notice **Intents (#)**. Select the **HelloWorldIntent** under it. 
  > *The HelloWorldIntent was auto-created for you because you selected the Hello World template when you created the skill.  This Intent has some sample Utterances.*
 * Add a few more Utterances - keep them short. Type additional Utterances in the text box and hit the **<Enter>** button on your keyboard to add the Utterance to the list of Sample. Need ideas? Try, Hello robot, What's up, How you doing...
 * Once you've added the additional Utterances, click **Save Model*** and stay on this screen.
