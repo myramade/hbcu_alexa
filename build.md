@@ -90,7 +90,7 @@ Let's make some small edits to this code base:
 
 ``` javascript 
 handle(handlerInput) {
-        const speakOutput = 'Welcome, you can say Hello or Help. Which would you like to try?';javascript
+        const speakOutput = 'Welcome, you can say Hello or Help. Which would you like to try?';
 ```
         
  
