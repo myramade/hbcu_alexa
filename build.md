@@ -65,8 +65,28 @@ The first item on the checklist is **Invocation Name** this is where you set the
   > *Anytime you make a change you will need to click **Save Model*** 
   
 ## Intents
-Let's move on to the **Intents** 
+Let's move on to the **Intents**. This is how the VUI maps the user's verbal input to the intents your skill can handle.
+* On the left-side bar you'll notice **Intents (#)**, select the **HelloWorldIntent** under it. 
+ > *The HelloWorldIntent was auto-created for you because you selected the Hello World template when you created the skill.  This Intent has some sample Utterances.*
+* Add a few more Utterances - keep them short. Type additional Utterances in the text box and hit the **<Enter>** button on your keyboard to add the Utterance to the list of Sample.   Need ideas? Try, Hello robot, Whats up, How you doing...
+* Once you've added the additional Utterances click **Save Model*** and stay on this screen.
 
+## Build Model
+Because you've made and saved changes to your Interaction Model, you will need to build your model in order for your changes to take effect. Just saving them is not sufficient. 
+* Click **Build Model** at the top of the screen
+
+## Edit Code
+While your model is being built, let's edit some code. Click on the **Code** tab at the top of the screen and let's take a few minutes to review the code in the index.js that is displayed on your screen. This code is written in JavaScript. 
+
+Your code has two main functions: **_canHandle()_** and **_handle()_**. Here's what they do:
+* The **canHandle()** function is where you defined which requests the handler responds to.
+* The **handle()** function is where you define the response that is returned to the user. 
+
+Can you read this code and predict what the skill is going to do? 
+ > Try to diagram the actions are happening in this code. 
+ 
+ 
+  
   
   
 
