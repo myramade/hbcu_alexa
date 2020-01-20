@@ -31,7 +31,7 @@ Backend | the infrastucture that stores and arranges your data
 Frontend | the presentation layer of an application (it's what your users interact with directly)
 Hosted Service | a service that is managed for you so you don't have to worry about updates, patches, scaling, etc.
 Intent	| an action that fulfills the users spoken request
-Interaction Model |	the words user may say to make intents
+Interaction Model |	a design that defines the relationship betweem the different part of your skill
 Invocation | the name of your Alexa Skill
 Natural Language Understanding (NLU) | a technology used by computers to understand what a user’s words mean
 Slot | an option argument in an intent
