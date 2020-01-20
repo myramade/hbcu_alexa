@@ -107,7 +107,7 @@ Notice **Test** is disabled by default and you have to enable it.
 * In the text box next to the selected language (_in this case English_), type **Open [Invocation Name]** and press _[Enter]_ on your keyboard
  > replace *Invocation Name* with the name you entered on the **Skill Builder** page. If you can't remember what you saved as your *Invocation Name* you can click on the **Build** tab at the top of the page, and then click on **Invocation** to copy your **Skill Inovcation Name**
  
-Your skill will process the input you just provided and display the input/output (IO) processing on the right-side of screen in JSON format. 
+* Your skill will process the input you just provided and display the input/output (IO) processing on the right-side of screen in JSON format. 
 
 * Next, type one of the sample Utterances you configured in the *Build* phase of the project and press _[Enter]_ on your keyboard.
 
