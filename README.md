@@ -10,7 +10,7 @@ For this lab, you'll need:
 1. Your Amazon.com account login - (the one you use to shop on Amazon.com).
 2. An AWS Educate account (if you are a student) or a personal aws.amazon.com account.
 
-## Things Your Should Know 
+## Things You Should Know 
 Before you start building, let me give you an Alexa Skill theory crash course. In order to get building fairly quickly, there are a few things you should know, including:
 
 - Basic Alexa Terminology
@@ -19,8 +19,8 @@ Before you start building, let me give you an Alexa Skill theory crash course. I
 - Frontend - Interaction Model
 - Backend - Hosted Service
 
-## Terminology 
-Let's start by reviewing some basic terms that you should understand. I've complied a list below (full glossary [here](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/alexa-skills-kit-glossary.html)):
+## Basic Terminology 
+Let's start by reviewing some important terms to understand. I've complied a list below (full glossary [here](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/alexa-skills-kit-glossary.html)):
 
 Terminology | Definition
 ------------|-------------
