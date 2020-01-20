@@ -61,7 +61,7 @@ The first item on the checklist is **Invocation Name**. This is where you set th
 * Under the *Skill builder checklist*, double click **Invocation Name**. 
   > *Notice that **Invocation** on the left-side of the screen is now highlighted.*
 * On the **Invocation** page, the **Skill Invocation Name** is populated with your skill name. 
-* Change the skill invocation name - Type **Yo World** in the box. 
+* Change the skill invocation name - Type **yo world** in the box. Keep in mind that this name cannot contain capital letters.
   > *Anytime you make a change you will need to click **Save Model***. 
   
 ## Intents
@@ -95,7 +95,7 @@ handle(handlerInput) {
 ```
         
  * After you edit the text, click the **Save** button and then the **Deploy** button at the top of the screen. 
-  > *The **Deploy** button does not publish your skill. It's taking all of the lines of code in the codebase and copying it to an enviroment where it will be executed. 
+  > *The **Deploy** button does not publish your skill. It's taking all of the lines of code in the codebase and copying it to an environment where it will be executed. 
 
 # Test
 We are ready to test your skill.  Click on the **Test** tab at the top of the screen. 
