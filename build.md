@@ -75,7 +75,7 @@ Let's move on to the **Intents**. This is how the VUI maps the user's verbal inp
 Because you've made and saved changes to your Interaction Model, you will need to build your model in order for your changes to take effect. Just saving them is not sufficient. 
 * Click **Build Model** at the top of the screen
 
-## Edit Code
+# Code
 While your model is being built, let's edit some code. Click on the **Code** tab at the top of the screen and let's take a few minutes to review the code in the index.js that is displayed on your screen. This code is written in JavaScript. 
 
 Your code has two main functions: **_canHandle()_** and **_handle()_**. Here's what they do:
@@ -84,6 +84,13 @@ Your code has two main functions: **_canHandle()_** and **_handle()_**. Here's w
 
 Can you read this code and predict what the skill is going to do? 
  > Try to diagram the actions are happening in this code. 
+ 
+Let's make some small edits to this code base:
+* Change the first **handle()** _const SpeakOutput_.  Right now the output when a user launches the skill using the Invocation is: _'Welcome, you can say Hello or Help. Which would you like to try?'_
+
+'''handle(handlerInput) {
+        const speakOutput = 'Welcome, you can say Hello or Help. Which would you like to try?';
+        '''
  
  
   
