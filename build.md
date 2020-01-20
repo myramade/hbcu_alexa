@@ -19,7 +19,8 @@ Now that you are logged on to the Alexa Developer console, let's create a new sk
 - Click the **Create Skill** button. This will bring up the **Create a new skill** page. 
 
 On the **Create a new skill** page, there's a few decisions points: 
-* **Skill name** - this is the one to two-word name you're give your skill. It's the name users will see when you publish your skill.
+* **Skill name** - this is the one to two-word name you're give your skill. It's the name users will see when you publish your skill. 
+ * Type **Hello World**
 * **Default Language** - you can decide which language you will use for your skill. I recommend English for now, you can add more langugages later. 
 * **Choose a mdoel to add to your skill** - The peeps at AWS have created some pre-built model to simplify things; these are great for learning. For this lab, choose **Custom**.  A blue *SELECTED* banner will appear on the model you select. 
 * **Choose a method to host your skill's backend resources** - on my intro page, I shared that your skill needs a backend.  The most common backend is a Lambda function. You are given a choice of three options, of which two are Alexa-Hosted. 
@@ -41,7 +42,7 @@ It should look something like this (*I'm anti-screenshots when it comes to softw
 
 **There is a lot of on this page, so take a minute to breath again - you got this**
 
-This is the Skill Builder page. On the left-side of the screen, you'll see:
+This is the Skill Builder page. On the *left-side* of the screen, you'll see **Custom** and under:
 * Interaction Model
 * Utterance Conflict
 * Invocation
@@ -50,7 +51,19 @@ This is the Skill Builder page. On the left-side of the screen, you'll see:
 * JSON Editor
 * and more...
 
-On the right-side of the screen, you'll see a **Skill builder checklist**.  Most of the items will have a green checkmark because we selected a pre-built template. *Yay us!*
+The center of the screen, **How to get started** provides you with a bunch of great resources. I encourage you to check them out after you've completed this lab. 
+
+On the *right-side of the screen, you'll see a **Skill builder checklist**.  Most of the items will have a green checkmark because we selected a pre-built template. *Yay us!*
+
+Let's concentrate on working through the items in the checklist. 
+* Under the *Skill builder checklist*, double click **Invocation Name** 
+ * Notice that **Invocation** on the left-side of the screen is now high-lighted. 
+* On the **Invocation** page, the **Skill Invocation Name** is populated your skill name. 
+* Change the skill invocation name -  Type **Yo World** in the box. 
+  * Anytime you make a change you will need to click **Save Model**
+  
+  
+  
 
 
 
