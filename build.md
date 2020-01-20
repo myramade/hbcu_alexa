@@ -12,7 +12,7 @@ Once logged in, you'll see a few options on your screen,
 - Select **Alexa** under **Amazon Alexa**. 
 - At the top of the Amazon Alexa screen click on **Skill Builders** and from the drop-down menu select **Developer Console**
 
-## Create Your Skill
+# Create Your Skill
 
 Now that you are logged on to the Alexa Developer console, let's create a new skill. 
 
@@ -70,6 +70,7 @@ Let's move on to the **Intents**. This is how the VUI maps the user's verbal inp
  > *The HelloWorldIntent was auto-created for you because you selected the Hello World template when you created the skill.  This Intent has some sample Utterances.*
 * Add a few more Utterances - keep them short. Type additional Utterances in the text box and hit the **<Enter>** button on your keyboard to add the Utterance to the list of Sample.   Need ideas? Try, Hello robot, Whats up, How you doing...
 * Once you've added the additional Utterances click **Save Model*** and stay on this screen.
+ > Make note of the sample Utterances, we'll use them in testing. 
 
 ## Build Model
 Because you've made and saved changes to your Interaction Model, you will need to build your model in order for your changes to take effect. Just saving them is not sufficient. 
@@ -86,14 +87,22 @@ Can you read this code and predict what the skill is going to do?
  > Try to diagram the actions are happening in this code. 
  
 Let's make some small edits to this code base:
-* Change the first **handle()** _const SpeakOutput_.  Right now the output when a user launches the skill using the Invocation is: _'Welcome, you can say Hello or Help. Which would you like to try?'_
+* Change the first **handle()** _const SpeakOutput_.  Right now the output when a user launches the skill using the Invocation is: _'Welcome, you can say Hello or Help. Which would you like to try?'_. Type your own custom message here, be sure your text is in between the quotes (' ') and the line ends in a semicolon (;). 
 
 ``` javascript 
 handle(handlerInput) {
         const speakOutput = 'Welcome, you can say Hello or Help. Which would you like to try?';
 ```
         
- 
+ * After you edit the text, click the **Save** button and then the **Deploy** button at the top of the screen. 
+  > *The **Deploy** button does not publish your skill. It's taking all of the lines of code in the codebase and copying it to an enviroment where it will be executed. 
+
+# Test
+We are ready to test your skill.  Click on the **Test** tab at the top of the screen. 
+Notice **Test** is disabled by default and you have to enable it.  
+
+* Click the toggle next to **Off** and select **Development**
+
  
   
   
