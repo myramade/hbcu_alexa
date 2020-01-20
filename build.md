@@ -88,10 +88,11 @@ Can you read this code and predict what the skill is going to do?
 Let's make some small edits to this code base:
 * Change the first **handle()** _const SpeakOutput_.  Right now the output when a user launches the skill using the Invocation is: _'Welcome, you can say Hello or Help. Which would you like to try?'_
 
-'''javascript
+``` javascript 
 handle(handlerInput) {
-        const speakOutput = 'Welcome, you can say Hello or Help. Which would you like to try?';
-        '''
+        const speakOutput = 'Welcome, you can say Hello or Help. Which would you like to try?';javascript
+```
+        
  
  
   
