@@ -38,7 +38,7 @@ Slot | an option argument in an intent
 Speech Synthesis Markup Language (SSML)	| a markup language to creates synthetic speech
 Utterance	| the words a user says to Alexa that are meants to get a response
 Voice User Interface (VUI)	| a method for users to use voice to interact with and control an Alexa device
-Wake Word | this is the word is spoken to let your Alexa device know you are speaking to it. Alexa has a small subset of wake words that can be used: Alexa, Echo, Computer, Amazon. 
+Wake Word | a spoken word that tells your Alexa device that you are speaking to it. Alexa has a small subset of wake words that can be used, including Alexa, Echo, Computer, and Amazon.
 
 ## Parts of an Alexa Skill 
 
