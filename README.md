@@ -20,7 +20,7 @@ Before you start building, let me give you an Alexa Skill theory crash course. I
 - Backend - Hosted Service
 
 ## Basic Terminology 
-Let's start by reviewing some important terminology (a full glossary can be accessed on the [external AWS site]). (https://developer.amazon.com/en-US/docs/alexa/ask-overviews/alexa-skills-kit-glossary.html)):
+Let's start by reviewing some important terminology (a full glossary can be accessed on the [external AWS site](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/alexa-skills-kit-glossary.html)):
 
 Terminology | Definition
 ------------|-------------
