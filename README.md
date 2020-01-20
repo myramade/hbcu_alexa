@@ -26,13 +26,13 @@ Terminology | Definition
 ------------|-------------
 Amazon Resource Name (ARN) | a unique AWS resource identifier
 Automatic Speech Recognition (ASR) | a technology that converts spoken words into text
+AWS Lambda | a cloud service used to host and run code in response to a trigger without servers to manage
 Backend | the infrastucture that stores and arranges your data
 Frontend | the presentation layer of an application (it's what your users interact with directly)
 Hosted Service | a service that is managed for you so you don't have to worry about updates, patches, scaling, etc.
 Intent	| an action that fulfills the users spoken request
 Interaction Model |	the words user may say to make intents
 Invocation | the name of your Alexa Skill
-Lambda | a cloud service used to host and run code in response to a trigger without servers to manage
 Natural Language Understanding (NLU) | a technology used by computers to understand what a user’s words mean
 Slot | an option argument in an intent
 Speech Synthesis Markup Language (SSML)	| a markup language to generate synthetic speech
