@@ -101,7 +101,7 @@ handle(handlerInput) {
 We are ready to test your skill.  Click on the **Test** tab at the top of the screen. 
 Notice **Test** is disabled by default and you have to enable it.  
 
-* Click the toggle next to **Off** and select **Development**.
+* Select the dropdown menu next to **Skill testing is enabled in:** and change it from **Off** to **Development**.
 > You'll now see the page is enabled.  On the left-side, you'll see **Alexa Simulator** is selected. Next to that, you'll see **Manual JSON** and **Voice & Tone**. 
 * To test your skill, ensure **Alexa Simulator** is selected. 
 * In the text box next to the selected language (_in this case English_), type **Open [Invocation Name]** and press _[Enter]_ on your keyboard.
