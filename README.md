@@ -2,7 +2,7 @@
 
 Have you ever wanted to build your own Alexa Skill, but need a starting point? I got you covered. In this lab, you'll create your first Alexa Skill in about 10 minutes. I will reference Amazon AWS documentation and simplify some terms in order to help you wrap your brain around the basics. 
 
-You're going to build an Alexa skill using different tools - including the Alexa Developer Console, AWS Lambda, and Amazon Blueprints.
+You're going to build an Alexa Skill using different tools, including the Alexa Developer Console, AWS Lambda, and Amazon Blueprints.
 
 ### Tools
 
@@ -11,7 +11,7 @@ For this lab, you'll need:
 2. An AWS Educate account (if you are a student) or a personal aws.amazon.com account.
 
 ## Things Your Should Know 
-Before you start building, let me give you an Alexa Skill theory crash course. Since we will get to building fairly quickly, there are a few things you should know:
+Before you start building, let me give you an Alexa Skill theory crash course. In order to get building fairly quickly, there are a few things you should know, including:
 
 - Basic Alexa Terminology
 - Parts of an Alexa Skill
@@ -31,7 +31,7 @@ Frontend | the presentation layer of an application (it's what your users intera
 Hosted Service | a service that is managed for you so you don't have to worry about updates, patches, scaling, etc.
 Intent	| an action that fulfills the users spoken request
 Interaction Model |	the words user may say to make intents
-Invocation | the name of your Alexa skill
+Invocation | the name of your Alexa Skill
 Lambda | a cloud service used to host and run code in response to a trigger without servers to manage
 Natural Language Understanding (NLU) | a technology used by computers to understand what a user’s words mean
 Slot | an option argument in an intent
