@@ -111,7 +111,9 @@ Your skill will process the input you just provided and display the input/output
 
 * Next, type one of the sample Utterances you configured in the *Build* phase of the project and press _[Enter]_ on your keyboard.
 
-Did you get the expected response? If not, what went wrong? 
+![iconfinder_questionssvg_1579793](https://user-images.githubusercontent.com/28787937/72753439-c925ca00-3b79-11ea-9184-6cee9415ccbc.png)
+**Did you get the expected response? If not, what went wrong?**
+
 
  
   
