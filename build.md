@@ -57,10 +57,10 @@ On the *right-side of the screen, you'll see a **Skill builder checklist**.  Mos
 
 Let's concentrate on working through the items in the checklist. 
 * Under the *Skill builder checklist*, double click **Invocation Name** 
-  * *Notice that **Invocation** on the left-side of the screen is now high-lighted.*
+  > *Notice that **Invocation** on the left-side of the screen is now high-lighted.*
 * On the **Invocation** page, the **Skill Invocation Name** is populated your skill name. 
 * Change the skill invocation name -  Type **Yo World** in the box. 
-  * *Anytime you make a change you will need to click **Save Model***
+  > *Anytime you make a change you will need to click **Save Model***
   
   
   
