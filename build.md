@@ -56,12 +56,17 @@ The center of the screen, **How to get started** provides you with a bunch of gr
 On the *right-side of the screen, you'll see a **Skill builder checklist**.  Most of the items will have a green checkmark because we selected a pre-built template. *Yay us!*
 
 Let's concentrate on working through the items in the checklist. 
+## Invocation
+The first item on the checklist is **Invocation Name** this is where you set the word(s) a user will speak to launch your skill. 
 * Under the *Skill builder checklist*, double click **Invocation Name** 
   > *Notice that **Invocation** on the left-side of the screen is now high-lighted.*
 * On the **Invocation** page, the **Skill Invocation Name** is populated your skill name. 
 * Change the skill invocation name -  Type **Yo World** in the box. 
-  > *Anytime you make a change you will need to click **Save Model***
+  > *Anytime you make a change you will need to click **Save Model*** 
   
+## Intents
+Let's move on to the **Intents** 
+
   
   
 
