@@ -35,8 +35,8 @@ Interaction Model |	the words user may say to make intents
 Invocation | the name of your Alexa Skill
 Natural Language Understanding (NLU) | a technology used by computers to understand what a user’s words mean
 Slot | an option argument in an intent
-Speech Synthesis Markup Language (SSML)	| a markup language to generate synthetic speech
-Utterance	| the words a user says to Alexa that are intended to get a response
+Speech Synthesis Markup Language (SSML)	| a markup language to creates synthetic speech
+Utterance	| the words a user says to Alexa that are meants to get a response
 Voice User Interface (VUI)	| a method for users to use voice to interact with and control an Alexa device
 
 
