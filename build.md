@@ -61,7 +61,7 @@ The first item on the checklist is **Invocation Name**. This is where you set th
 * Under the *Skill builder checklist*, double click **Invocation Name**. 
   > *Notice that **Invocation** on the left-side of the screen is now highlighted.*
 * On the **Invocation** page, the **Skill Invocation Name** is populated with your skill name. 
-* Change the skill invocation name - Type **yo world** in the box. Keep in mind that this name cannot contain capital letters.
+* Change the skill invocation name - (for example, you could use **yo world**). Keep in mind that this name cannot contain capital letters.
   > *Anytime you make a change you will need to click **Save Model***. 
   
 ## Intents
