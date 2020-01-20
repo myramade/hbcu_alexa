@@ -102,6 +102,16 @@ We are ready to test your skill.  Click on the **Test** tab at the top of the sc
 Notice **Test** is disabled by default and you have to enable it.  
 
 * Click the toggle next to **Off** and select **Development**
+> You'll now see the page is enabled.  On the left-side, you'll see **Alexa Simulator** is selected. Next to that you'll see **Manual JSON** and **Voice & Tone**. 
+* To test your skill, ensure **Alexa Simulator** is selected. 
+* In the text box next to the selected language (_in this case English_), type **Open [Invocation Name]** and press _[Enter]_ on your keyboard
+ > replace *Invocation Name* with the name you entered on the **Skill Builder** page. If you can't remember what you saved as your *Invocation Name* you can click on the **Build** tab at the top of the page, and then click on **Invocation** to copy your **Skill Inovcation Name**
+ 
+Your skill will process the input you just provided and display the input/output (IO) processing on the right-side of screen in JSON format. 
+
+* Next, type one of the sample Utterances you configured in the *Build* phase of the project and press _[Enter]_ on your keyboard.
+
+Did you get the expected response? If not, what went wrong? 
 
  
   
