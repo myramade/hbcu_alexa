@@ -121,7 +121,7 @@ Notice **Test** is disabled by default and you have to enable it.
 
 ## _Can you make Alexa **whisper**?_
 
-### Read the documentation and see if you can figure it out.  
+### Read the ![documentation](https://developer.amazon.com/en-US/docs/alexa/custom-skills/speech-synthesis-markup-language-ssml-reference.html) and see if you can figure it out.  
   
   
   
