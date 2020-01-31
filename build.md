@@ -115,7 +115,13 @@ Notice **Test** is disabled by default and you have to enable it.
 **Did you get the expected response? If not, what went wrong?**
 
 
- 
+ <img width="571" alt="Screen Shot 2020-01-31 at 5 28 02 PM" src="https://user-images.githubusercontent.com/28787937/73578981-198d0980-444f-11ea-9f4e-522fde45b6bc.png">
+
+Was that too easy? I got you! Here's a challenge:
+
+##_Can you make Alexa **whisper**?_
+
+Read the documentation and see if you can figure it out.  
   
   
   
